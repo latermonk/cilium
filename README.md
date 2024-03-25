@@ -53,17 +53,6 @@ https://lpc.events/event/16/contributions/1353/attachments/1068/2130/plumbers_20
 
 
 
-## Nate Sweet
-* Understanding (and Troubleshooting) the eBPF Datapath in Cilium   
-
-https://www.youtube.com/watch?v=Kmm8Hl57WDU   
-
-
-https://arthurchiao.art/blog/understanding-ebpf-datapath-in-cilium-zh/      
-
-https://kccncna19.sched.com/event/Uae7/understanding-and-troubleshooting-the-ebpf-datapath-in-cilium-nathan-sweet-digitalocean   
-
-
 
 ---
 # Cilium Code Walk Through Series
