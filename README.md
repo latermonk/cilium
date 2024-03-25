@@ -19,12 +19,12 @@ https://www.slideshare.net/ThomasGraf5/cilium-bringing-the-bpf-revolution-to-kub
 
 
 ## Arthur @Arthurchiao  - Yanan Zhao  
-* Large scale cloud native networking & security with Cilium/eBPF    
-https://www.youtube.com/watch?v=NIsU4I950l4   
-https://sessionize.com/download/iokvamo~LDvBZBkRzu6podCcJdUtQF.pdf~Arthur-Session-trip-com.pdf   
-
-
 * Life of a Packet in Cilium Discovering the Pod-to-Service Traffic Path and BPF Processing Logics   
+
+https://www.youtube.com/watch?v=0BKU6avwS98   
+
+https://docs.cilium.io/en/stable/network/ebpf/lifeofapacket/    
+
 
 https://arthurchiao.art/blog/cilium-life-of-a-packet-pod-to-service-zh/   
 
@@ -107,3 +107,12 @@ https://labs-map.isovalent.com/
 
 ## Migrating a cluster to Cilium
 https://docs.cilium.io/en/stable/installation/k8s-install-migration/  
+
+
+
+
+---
+#  Reference:    
+* Large scale cloud native networking & security with Cilium/eBPF    
+https://www.youtube.com/watch?v=NIsU4I950l4     
+https://sessionize.com/download/iokvamo~LDvBZBkRzu6podCcJdUtQF.pdf~Arthur-Session-trip-com.pdf      
