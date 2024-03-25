@@ -20,15 +20,16 @@ https://www.slideshare.net/ThomasGraf5/cilium-bringing-the-bpf-revolution-to-kub
 
 ## Arthur @Arthurchiao  - Yanan Zhao  
 * Life of a Packet in Cilium Discovering the Pod-to-Service Traffic Path and BPF Processing Logics   
+https://arthurchiao.art/blog/cilium-life-of-a-packet-pod-to-service-zh/   
+
+https://arthurchiao.art/blog/cilium-life-of-a-packet-pod-to-service/   
 
 https://www.youtube.com/watch?v=0BKU6avwS98   
 
 https://docs.cilium.io/en/stable/network/ebpf/lifeofapacket/    
 
 
-https://arthurchiao.art/blog/cilium-life-of-a-packet-pod-to-service-zh/   
 
-https://arthurchiao.art/blog/cilium-life-of-a-packet-pod-to-service/   
 
 
 
