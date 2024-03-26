@@ -1,5 +1,22 @@
 #  Cilium
 
+##  Adam Sayah
+* Demystifying Cilium: Learn How to Build an eBPF CNI Plugin from Scratch  
+
+https://www.youtube.com/watch?v=3cqCmtg-TOo  
+
+https://www.solo.io/blog/cilium-build-ebpf-cni-plugin/   
+
+https://static.sched.com/hosted_files/kccncna2023/23/KubeCon%20North%20America%202023%20-%20Create%20an%20eBPF%20CNI%20Plugin%20from%20scratch.pptx.pdf   
+
+
+
+
+
+
+
+
+
 ## Official Doc
 https://docs.cilium.io/en/stable/network/ebpf/  
 https://docs.cilium.io/en/v1.9/concepts/ebpf/  
