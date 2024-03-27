@@ -9,6 +9,8 @@ https://www.solo.io/blog/cilium-build-ebpf-cni-plugin/
 
 https://static.sched.com/hosted_files/kccncna2023/23/KubeCon%20North%20America%202023%20-%20Create%20an%20eBPF%20CNI%20Plugin%20from%20scratch.pptx.pdf   
 
+https://github.com/asayah/ebpf-cni-from-scratch-kubecon-na-2023    
+
 
 
 
