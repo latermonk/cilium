@@ -41,7 +41,7 @@ kubectl cluster-info --context kind-kind
 
 ```
 helm upgrade --install --namespace kube-system --repo https://helm.cilium.io cilium cilium --values - <<EOF
-kubeProxyReplacement: true  # strict
+kubeProxyReplacement: true
 k8sServiceHost: kind-control-plane
 k8sServicePort: 6443
 hostServices:
