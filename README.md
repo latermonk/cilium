@@ -2,7 +2,7 @@
 
 #  Cilium: Up and Running   
 https://isovalent.com/books/cilium-up-and-running/   
-[****](https://github.com/isovalent/cilium-up-and-running)     
+https://github.com/isovalent/cilium-up-and-running       
 
 
 
